@@ -1,0 +1,21 @@
+# Typescript
+
+- [ ] Generic Types
+- [ ] Utility types
+  - [ ] Partial
+  - [ ] Pick
+  - [ ] Omit
+  - [ ] Readonly
+  - [ ] Record
+  - [ ] Exclude
+  - [ ] Extract
+  - [ ] Awaited
+  - [ ] Parameters
+  - [ ] NonNullable
+  - [ ] ReturnType
+  - [ ] Instance Type
+- [ ] Template literal typees
+- [ ] Recursive Types
+- [ ] Mapped Types
+- [ ] Decorators
+- [ ] Namespaces
